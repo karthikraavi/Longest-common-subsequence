@@ -1,0 +1,1 @@
+This program gives you the length of the Longest common subsequence between two strings.We use Dynamic Programming to solve this because of overlapping sub-problems.Note that this program doesnot give you the longest subsequence;it just gives you the length
